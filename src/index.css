@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.color-container{
+  background-color: #3e3e3e;
+  padding: 200px;
+  height: 100vh;
+}
+.color-box{
+  width: 200px;
+  height: 100px;
+  margin-bottom: 20px;
+}
+button{
+  padding: 20px 20px;
+  background-color: black;
+  color: #fff;
+  border: 1px solid #fff;
+  border-radius: 7px;
+}
